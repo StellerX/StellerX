@@ -1,0 +1,32 @@
+width:900
+height:600
+INTRO BG:white
+TITLE:Steller X
+HOME BG:white
+FRAME BG:white
+INTRO BG ICON:assets/home.png
+BUTTON RIGHT 3 DOT:assets/button3dot.jpg
+MORE BUTTON:assets/plus.jpg
+USER ICON:assets/user.png
+SEND BUTTON:assets/send.png
+FULLBG:assets/fullbg.png
+BACK BUTTON:assets/backimg.png
+CREATE ACC:assets/createacc.png
+LINK NEW ACC:assets/linknewacc.png
+NEXT BUTTON:assets/next.png
+THREE BARS:assets/3bars.png
+THREE DOTS:assets/3dot.png
+STATUS BUTTON:assets/status_button.png
+HOME BUTTON:assets/home_button.png
+PROFILE:assets/profile.png
+DEFAULT AVATAR:assets/avatar/default.png
+SETTINGS ICON:assets/settings_icon.png
+KEY:assets/key.png
+ABOUT:assets/about.png
+bg:assets/bg.jpg
+line:assets/line.png
+uid:assets/uid.png
+DEFAULT BOY:assets/default.png
+REFRESH BUTTON:assets/refresh.png
+login:assets/loginbutton1.jpg
+PLUS:assets/plus.jpg
