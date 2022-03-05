@@ -401,7 +401,7 @@ class Screens(Main):
         pannel=Label(f1,text=' [All] Count:'+str(self.inboxlist.size()),bg='white',fg='red',font='verdana 11') #data for no of values/messages
         pannel.place(x=230,y=70)
         self.where.set('all')
-        self.inboxlist.bind('<Double-1>',lambda e:self.seemsg())
+        #self.inboxlist.bind('<Double-1>',lambda e:self.seemsg())
         self.scrollbar=Scrollbar(f1)
         self.inboxlist.config(yscrollcommand = self.scrollbar.set)
         self.scrollbar.config(command = self.inboxlist.yview)
