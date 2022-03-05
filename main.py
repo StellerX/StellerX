@@ -361,7 +361,7 @@ class Screens(Main):
     	Message.place(x=20,y=205,width=840,height=300)
     	Message.insert(1.0,message)
     	Message.config(state='disabled')
-    	Button(f1,text='reply to this mail',bg='violet',fg='white').place(x=20,y=550,width=840)
+    	Button(f1,text='Back',bg='violet',fg='white',command=self.HomeScreen).place(x=20,y=550,width=840)
     	
 		
     def HomeScreen(self):
